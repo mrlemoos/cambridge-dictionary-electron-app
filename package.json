@@ -1,0 +1,16 @@
+{
+  "name": "cambridge-dictionary",
+  "version": "0.1.0",
+  "description": "A simple electron desktop app for Cambridge Dictionary.",
+  "main": "src/main.js",
+  "repository": "git@github.com:mrlemoos/cambridge-dictionary-desktop.git",
+  "author": "Leonardo Lemos <leo.lemos.ds@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^19.0.8"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
